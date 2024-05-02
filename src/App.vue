@@ -18,6 +18,9 @@ export default {
   <AppTitleVue>
 
   </AppTitleVue>
+  <AppBanner>
+    
+  </AppBanner>
 </template>
 
 <style>
